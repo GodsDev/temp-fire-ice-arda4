@@ -1,0 +1,23 @@
+{
+    "name": "godsdev/tempfireicearda4",
+    "description": "Test 1 for testing migration",
+    "type": "project",
+    "homepage": "https://github.com/GodsDev/temp-fire-ice-arda4",
+    "require": {
+        "php": "^7.0",
+        "workofstan/tempfireiceardalibrary": "dev-main"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanislav Rejthar",
+            "email": "rejthar@stanislavrejthar.com"
+        }
+    ],
+    "support": {
+        "email": "rejthar@stanislavrejthar.com",
+        "issues": "https://github.com/GodsDev/temp-fire-ice-arda4/issues",
+        "source": "https://github.com/GodsDev/temp-fire-ice-arda4"
+    },
+    "minimum-stability": "stable"
+}
